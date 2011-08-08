@@ -164,7 +164,9 @@
 .green{color:#a6c75c !important;}
 .yellow{color:#999355 !important;}
 .gray_max{color:#636467 !important;}
-.gray_min{color::#636467 !important;}
+.gray_min{color:#b2b4b7 !important;}
+
+.yellow a{color:#999355 !important;}
 
 .medium{font-weight:500 !important;}
 .bold{font-weight:bolder  !important;}
@@ -186,6 +188,7 @@
 .s21{font-size:21px !important;}
 .s22{font-size:22px !important;}
 
+.no_marrgin{margin:0px !important;}
 .tahoma{font-family:Tahoma !important;}
 .time{font-family:"Times New Roman", Times, serif !important;}
 
@@ -213,4 +216,26 @@
 	padding-left:10px;
 }
 
-.module_center
+.module_center .head
+{
+	background-color:#a7a9ac;
+}
+.author_head .avata, img
+{
+	width:54px;
+	height:75px;
+	float:left;
+}
+.module_center .infor
+{
+	width:400px;
+	float:left;
+	padding-left:2px;
+}
+.box_blue
+{
+	background-color:#e1f4fd;
+	padding-top:5px;
+	padding-bottom:10px;
+	padding-right:10px;
+}
