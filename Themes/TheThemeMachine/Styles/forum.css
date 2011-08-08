@@ -173,6 +173,7 @@
 .text_up{text-transform:uppercase !important;}
 .text_medium{text-transform:none !important;}
 
+.s8{font-size:8px !important;}
 .s11{font-size:11px !important;}
 .s12{font-size:12px !important;}
 .s13{font-size:13px !important;}
@@ -211,3 +212,5 @@
 	padding-top:5px;
 	padding-left:10px;
 }
+
+.module_center
