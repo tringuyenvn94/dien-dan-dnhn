@@ -1,0 +1,361 @@
+Start at Wednesday, July 20, 2011    12:03:01
+=========================================
+
+Registration Info : 
+
+Windows Version:
+Microsoft Windows XP Professional Service Pack 3 (Build 2600)
+
+Module Info:
+Company: fCoder Group, Inc.
+Product Name: ImageConverter Plus
+Product Version: 8.0.181.100720
+
+CPU Info:
+Mode: x32 bit
+Vendor: GenuineIntel
+Vendor ID: Intel Corporation
+Extended Processor Name: Intel(R) Celeron(R) CPU 2.80GHz
+Procesor Clock Frequecy: 2800
+Logical processors per physical: 1
+Stepping code: 9
+MMX support: yes
+MMX+ support: no
+SSE support: yes
+SSE2 support: yes
+3DNow suppor: no
+3DNow+ suppor: no
+AI64 support: no
+Hyperthreading support: no
+L1 cache size: 0
+L2 cache size: 256
+L3 cache size: -1
+
+Monitor info:
+Color depth: 32 Bits per pixel.
+Pixel Width: 1280
+Pixel Height: 1024
+Refresh frequency: 60 Hz
+
+Internet Explorer Version: 6.0
+Build Number: 2900
+
+Printers list: 
+Microsoft XPS Document Writer
+HP LaserJet P1006
+
+Default printer: 
+HP LaserJet P1006
+
+
+Profile settings:
+
+Operations:
+
+Format properties:
+    Extension: jpg
+    bits per pixel for baseline mode : 24
+    compression quality : 75
+    compression mode : baseline
+    compression sample : 111
+    create thumbnail : No
+    save exif information : Yes
+    save iptc information : Yes
+    lossless predictor (-1 for auto select) : -1
+    restart interval in MCU-rows : 0
+    interleaved : yes
+    optimize huffman codes : yes
+
+Save properties:
+    Destination path: {Source path}
+    convert with subfolders : yes
+    restore subfolder structure in target folder : yes
+    open target folder after conversion : yes
+    create log file in target folder : yes
+
+Target file name properties:
+    Name template: {Title}.{Type}
+    what to do, if file exists : auto_rename
+    delete source images : no
+
+Processing files...
+
+=====================================================================
+
+File 1 of 2
+
+RAM free    :     214.9 of    1014.1 Mb
+Virtual free:    1969.0 of    2047.9 Mb
+Target free disk space :    3858.0 of   20824.1 Mb
+Temp free disk space   :    3478.2 of   21532.4 Mb
+
+Src info : D:\liemqv\Work\HTML20072011\img\ar_xam_trang_left.png
+png, 50x50px, 24bpp, 1 page(s), 96.000000x96.000000 dpi, 1486 bytes
+Load all pages :  ok
+
+Save :  ok
+
+Dest info : D:\liemqv\Work\HTML20072011\img\ar_xam_trang_left.jpg
+jpg, 50x50px, 24bpp, 1 page(s), 96.000000x96.000000 dpi, 867 bytes
+
+=====================================================================
+
+File 2 of 2
+
+RAM free    :     214.5 of    1014.1 Mb
+Virtual free:    1965.0 of    2047.9 Mb
+Target free disk space :    3857.9 of   20824.1 Mb
+Temp free disk space   :    3478.2 of   21532.4 Mb
+
+Src info : D:\liemqv\Work\HTML20072011\img\ar_xam_trang_right.png
+png, 50x50px, 24bpp, 1 page(s), 96.000000x96.000000 dpi, 1462 bytes
+Load all pages :  ok
+
+Save :  ok
+
+Dest info : D:\liemqv\Work\HTML20072011\img\ar_xam_trang_right.jpg
+jpg, 50x50px, 24bpp, 1 page(s), 96.000000x96.000000 dpi, 847 bytes
+
+Complete at Wednesday, July 20, 2011    12:03:01
+=========================================
+Start at Wednesday, July 20, 2011    14:55:45
+=========================================
+
+Registration Info : 
+
+Windows Version:
+Microsoft Windows XP Professional Service Pack 3 (Build 2600)
+
+Module Info:
+Company: fCoder Group, Inc.
+Product Name: ImageConverter Plus
+Product Version: 8.0.181.100720
+
+CPU Info:
+Mode: x32 bit
+Vendor: GenuineIntel
+Vendor ID: Intel Corporation
+Extended Processor Name: Intel(R) Celeron(R) CPU 2.80GHz
+Procesor Clock Frequecy: 2800
+Logical processors per physical: 1
+Stepping code: 9
+MMX support: yes
+MMX+ support: no
+SSE support: yes
+SSE2 support: yes
+3DNow suppor: no
+3DNow+ suppor: no
+AI64 support: no
+Hyperthreading support: no
+L1 cache size: 0
+L2 cache size: 256
+L3 cache size: -1
+
+Monitor info:
+Color depth: 32 Bits per pixel.
+Pixel Width: 1280
+Pixel Height: 1024
+Refresh frequency: 60 Hz
+
+Internet Explorer Version: 6.0
+Build Number: 2900
+
+Printers list: 
+Microsoft XPS Document Writer
+HP LaserJet P1006
+
+Default printer: 
+HP LaserJet P1006
+
+
+Profile settings:
+
+Operations:
+
+Format properties:
+    Extension: gif
+    number of colors : 256
+    quantization levels : 8
+    dithering : yes
+    multipage option : as_is
+    save interlaced : no
+    optimize without quality loss : no
+
+Save properties:
+    Destination path: {Source path}
+    convert with subfolders : yes
+    restore subfolder structure in target folder : yes
+    open target folder after conversion : yes
+    create log file in target folder : yes
+
+Target file name properties:
+    Name template: {Title}.{Type}
+    what to do, if file exists : auto_rename
+    delete source images : no
+
+Processing files...
+
+=====================================================================
+
+File 1 of 2
+
+RAM free    :     148.8 of    1014.1 Mb
+Virtual free:    1830.4 of    2047.9 Mb
+Target free disk space :    3839.0 of   20824.1 Mb
+Temp free disk space   :    3396.7 of   21532.4 Mb
+
+Src info : D:\liemqv\Work\HTML-21072011\img\right.gif
+png, 48x48px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 3811 bytes
+
+exists : rename :  ok
+Load all pages :  ok
+
+Save :  append in mem
+
+FlushAppend ok
+Dest info : D:\liemqv\Work\HTML-21072011\img\\right (1).gif
+gif, 48x48px, 4bpp, 1 page(s), 544 bytes
+
+=====================================================================
+
+File 2 of 2
+
+RAM free    :     148.5 of    1014.1 Mb
+Virtual free:    1830.4 of    2047.9 Mb
+Target free disk space :    3839.0 of   20824.1 Mb
+Temp free disk space   :    3396.7 of   21532.4 Mb
+
+Src info : D:\liemqv\Work\HTML-21072011\img\left.gif
+png, 48x48px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 3800 bytes
+
+exists : rename :  ok
+Load all pages :  ok
+
+Save :  append in mem
+
+FlushAppend ok
+Dest info : D:\liemqv\Work\HTML-21072011\img\\left (1).gif
+gif, 48x48px, 4bpp, 1 page(s), 561 bytes
+
+Complete at Wednesday, July 20, 2011    14:55:46
+=========================================
+Start at Wednesday, July 20, 2011    15:12:46
+=========================================
+
+Registration Info : 
+
+Windows Version:
+Microsoft Windows XP Professional Service Pack 3 (Build 2600)
+
+Module Info:
+Company: fCoder Group, Inc.
+Product Name: ImageConverter Plus
+Product Version: 8.0.181.100720
+
+CPU Info:
+Mode: x32 bit
+Vendor: GenuineIntel
+Vendor ID: Intel Corporation
+Extended Processor Name: Intel(R) Celeron(R) CPU 2.80GHz
+Procesor Clock Frequecy: 2800
+Logical processors per physical: 1
+Stepping code: 9
+MMX support: yes
+MMX+ support: no
+SSE support: yes
+SSE2 support: yes
+3DNow suppor: no
+3DNow+ suppor: no
+AI64 support: no
+Hyperthreading support: no
+L1 cache size: 0
+L2 cache size: 256
+L3 cache size: -1
+
+Monitor info:
+Color depth: 32 Bits per pixel.
+Pixel Width: 1280
+Pixel Height: 1024
+Refresh frequency: 60 Hz
+
+Internet Explorer Version: 6.0
+Build Number: 2900
+
+Printers list: 
+Microsoft XPS Document Writer
+HP LaserJet P1006
+
+Default printer: 
+HP LaserJet P1006
+
+
+Profile settings:
+
+Operations:
+
+Format properties:
+    Extension: jpg
+    bits per pixel for baseline mode : 24
+    compression quality : 75
+    compression mode : baseline
+    compression sample : 111
+    create thumbnail : No
+    save exif information : Yes
+    save iptc information : Yes
+    lossless predictor (-1 for auto select) : -1
+    restart interval in MCU-rows : 0
+    interleaved : yes
+    optimize huffman codes : yes
+
+Save properties:
+    Destination path: {Source path}
+    convert with subfolders : yes
+    restore subfolder structure in target folder : yes
+    open target folder after conversion : yes
+    create log file in target folder : yes
+
+Target file name properties:
+    Name template: {Title}.{Type}
+    what to do, if file exists : auto_rename
+    delete source images : no
+
+Processing files...
+
+=====================================================================
+
+File 1 of 2
+
+RAM free    :     184.5 of    1014.1 Mb
+Virtual free:    1968.6 of    2047.9 Mb
+Target free disk space :    3839.1 of   20824.1 Mb
+Temp free disk space   :    3375.1 of   21532.4 Mb
+
+Src info : D:\liemqv\Work\HTML-21072011\img\right.gif
+png, 48x48px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 3811 bytes
+Load all pages :  ok
+
+Save :  ok
+
+Dest info : D:\liemqv\Work\HTML-21072011\img\right.jpg
+jpg, 48x48px, 24bpp, 1 page(s), 72.000000x72.000000 dpi, 544 bytes
+
+=====================================================================
+
+File 2 of 2
+
+RAM free    :     184.1 of    1014.1 Mb
+Virtual free:    1964.6 of    2047.9 Mb
+Target free disk space :    3839.0 of   20824.1 Mb
+Temp free disk space   :    3375.1 of   21532.4 Mb
+
+Src info : D:\liemqv\Work\HTML-21072011\img\left.gif
+png, 48x48px, 32bpp, 1 page(s), 72.000000x72.000000 dpi, 3800 bytes
+Load all pages :  ok
+
+Save :  ok
+
+Dest info : D:\liemqv\Work\HTML-21072011\img\left.jpg
+jpg, 48x48px, 24bpp, 1 page(s), 72.000000x72.000000 dpi, 542 bytes
+
+Complete at Wednesday, July 20, 2011    15:12:46
+=========================================
