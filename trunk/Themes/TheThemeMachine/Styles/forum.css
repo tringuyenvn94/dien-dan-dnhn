@@ -49,7 +49,6 @@
 .forum-right
 {
 	float:left;
-	width:785px;
 	height:236px;
 	background:url(../Content/dd_top_head.jpg) no-repeat right;
 }
@@ -61,6 +60,7 @@
 	padding:13px 20px;
 	font-family:Verdana, Arial, Helvetica, sans-serif;
 }
+.right_infor
 
 .head_forum_1
 {
@@ -113,18 +113,17 @@
 
 #line_bold{width:inherit; color:#b5b5b5; line-height:1.5px;}
 
-.forum-center-parent{width:788px; float:left;}
+.forum-center-parent{/*width:788px;*/ float:left;}
 
 .forum-center
 {
-	width:487px;
+	/*width:475px;*/
 	float:left;
-	margin-right:10px;
 }
 
 .module-right-parent
 {
-	width:287px;
+	width:294px;
 	float:left;
 }
 .forum-right-right
@@ -146,4 +145,69 @@
 .forum-ad
 {
 	background-color:#38a935 !important;
+	height:62px;
+}
+
+.ad-img
+{
+	background-image:url(../Content/dd_quang_cao.jpg);
+	height:27px;
+}
+
+.center{width:788px;}
+
+/* text - color
+***************************/
+.white{color:#FFFFFF !important;}
+.black{color:#000000 !important;}
+.blue{color:#1961ad !important;}
+.green{color:#a6c75c !important;}
+.yellow{color:#999355 !important;}
+.gray_max{color:#636467 !important;}
+.gray_min{color::#636467 !important;}
+
+.medium{font-weight:500 !important;}
+.bold{font-weight:bolder  !important;}
+.italic{font-style:italic !important;}
+
+.text_up{text-transform:uppercase !important;}
+.text_medium{text-transform:none !important;}
+
+.s11{font-size:11px !important;}
+.s12{font-size:12px !important;}
+.s13{font-size:13px !important;}
+.s14{font-size:14px !important;}
+.s15{font-size:15px !important;}
+.s16{font-size:16px !important;}
+.s17{font-size:17px !important;}
+.s18{font-size:18px !important;}
+.s20{font-size:20px !important;}
+.s21{font-size:21px !important;}
+.s22{font-size:22px !important;}
+
+.tahoma{font-family:Tahoma !important;}
+.time{font-family:"Times New Roman", Times, serif !important;}
+
+.Myri
+{
+	font-family:"myriad Pro" !important;
+}
+.mini_letter
+{
+	letter-spacing:0px;
+}
+
+/*  cap 2
+*********************/
+.module_menu_left .head
+{
+	background-color:#ededee;
+}
+.signup-btn
+{
+	width:82px;
+	height:33px;
+	background: url(../Content/signup.png) no-repeat;
+	padding-top:5px;
+	padding-left:10px;
 }
